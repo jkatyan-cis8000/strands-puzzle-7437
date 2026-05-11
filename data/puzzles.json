@@ -1,0 +1,32 @@
+{
+  "puzzles": [
+    {
+      "id": 1,
+      "theme": "FRUITS",
+      "words": ["APPLE", "BERRY", "GRAPE", "LEMON"],
+      "spangram": "FRUIT",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "theme": "OCEAN",
+      "words": ["CORAL", "SALTY", "TIDE", "WHALE", "WAVES"],
+      "spangram": "OCEANIC",
+      "difficulty": "medium"
+    },
+    {
+      "id": 3,
+      "theme": "SPACE",
+      "words": ["COMET", "GALAXY", "MOON", "PLANET", "STAR", "ORBIT"],
+      "spangram": "SPACEFLY",
+      "difficulty": "hard"
+    },
+    {
+      "id": 4,
+      "theme": "COLORS",
+      "words": ["AMBER", "CRIMSON", "INDIGO", "JADE", "LAVENDER", "TEAL", "UMBER"],
+      "spangram": "RAINBOW",
+      "difficulty": "medium"
+    }
+  ]
+}
